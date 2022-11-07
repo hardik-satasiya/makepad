@@ -1,3 +1,4 @@
-fn main(){
-    println!("HELLO WORLD");
+pub use ::makepad_error_log::{self,*};
+
+fn main() {
 }
